@@ -1,3 +1,4 @@
+import './input.css';
 
 
 document.addEventListener("DOMContentLoaded", () => {
